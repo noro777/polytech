@@ -1,0 +1,17 @@
+﻿  ASCIIEncoder.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\ASCIIEncoder.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\ASCIIEncoder.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+  Encoder.cpp
+  Main.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Main.cpp(57,10): warning C4101: 'out': unreferenced local variable
+  RLEEncoder.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\RLEEncoder.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\RLEEncoder.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
+  ShablonEncoder.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\ShablonEncoder.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+  TransposeEncoder.cpp
+C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\AlgorithmsClasses\Helper.h(23,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  AlgorithmsClasses.vcxproj -> C:\Users\Hayk\Desktop\Protection-of-Software-Systems\AlgorithmsClasses\Debug\AlgorithmsClasses.exe
